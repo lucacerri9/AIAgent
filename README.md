@@ -1,4 +1,4 @@
-# Agentic Code Debugger
+# AI Agent Code Debugger
 
 An “agentic” code debugger using an LLM to analyze a codebase, run commands, and iteratively fix bugs or implement small changes.
 
@@ -30,3 +30,4 @@ At a high level:
    - Repeats the loop until tests pass, a goal is reached, or a max-steps limit is hit.
 
 ---
+
